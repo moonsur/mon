@@ -4,7 +4,6 @@ This is my first time to use git properly. previously I have used but that was n
 
 #second
 
-this is second change.
+this is second channges
 
-
-
+the sky is blue..
